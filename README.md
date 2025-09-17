@@ -1,1 +1,2 @@
-# python_chem_simulation
+# 『Pythonによる化学シミュレーション入門』 サポートページ
+
